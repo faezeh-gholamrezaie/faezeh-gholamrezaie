@@ -5,9 +5,7 @@
 </div>
 
 <div align="center">
-  <a href="https://faezeh-gholamrezaie.github.io/faezeh-gholamrezaie/">
-  <img  src="https://github.com/faezeh-gholamrezaie/faezeh-gholamrezaie2/blob/main/github-faezeh-gholamrezaie-contribution.svg"
-       alt="snake" /></a>
+  <a href="https://faezeh-gholamrezaie.github.io/faezeh-gholamrezaie/"></a>
 </div>
 <!-- https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid
 … -->
