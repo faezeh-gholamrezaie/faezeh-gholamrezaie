@@ -15,7 +15,7 @@ I have over 3 years of experience as a Python developer, and I am currently work
 <br>
 🔭 I am currently applying cutting-edge AI algorithms to address challenges in various fields, such as improving solutions for air pollution🌱.
 <br>
-🧩My favorite hobbies include exploring abstract concepts🎈, reading books, painting🤡, and writing🦉.
+🧩My favorite hobbies include exploring abstract concepts🎈, reading books🏖️, painting🤡, and writing🦉.
 <br>
 I thank God that whatever I asked of Him, I achieved with the utmost of my ambition🥰.
 <br>
