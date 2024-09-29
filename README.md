@@ -11,7 +11,7 @@
 … -->
 
 👋  
-I have over 3 years of experience as a Python developer, and I am currently working as a programmer and AI researcher💪. With an academic background in Artificial Intelligence, I have a strong command of programming Machine Learning and Deep Learning algorithms. I am deeply passionate about learning, developing, and tackling challenges related to technology trends😵‍💫.
+I have over 3 years of experience as a Python developer, and I am currently working as a programmer and AI researcher💪. With an academic background in AI, I have a strong command of programming ML, DL, LLM and agent. I am deeply passionate about learning, developing, and tackling challenges related to technology trends😵‍💫.
 <br>
 🔭 I am currently applying cutting-edge AI algorithms to address challenges in various fields, such as improving solutions for air pollution🌱.
 <br>
