@@ -11,11 +11,10 @@
 … -->
 
 👋  
-I have over 3 years of experience as a Python developer, and I am currently working as a programmer and AI researcher💪. With an academic background in Artificial Intelligence, I have a strong command of programming Machine Learning and Deep Learning algorithms. I am deeply passionate about learning, developing, and tackling challenges related to emerging concepts and cutting-edge technologies😵‍💫.
+I have over 3 years of experience as a Python developer, and I am currently working as a programmer and AI researcher💪. With an academic background in Artificial Intelligence, I have a strong command of programming Machine Learning and Deep Learning algorithms. I am deeply passionate about learning, developing, and tackling challenges related to technology trends😵‍💫.
 <br>
 🔭 I am currently applying cutting-edge AI algorithms to address challenges in various fields, such as improving solutions for air pollution🌱.
 <br>
- My favorite hobbies are programming , solving math problems and reading books.
 🧩My favorite hobbies include exploring abstract concepts🎈, reading books, painting🤡, and writing🦉.
 <br>
 I thank God that whatever I asked of Him, I achieved with the utmost of my ambition🥰.
