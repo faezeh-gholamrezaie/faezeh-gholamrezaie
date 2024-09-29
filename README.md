@@ -10,15 +10,15 @@
 <!-- https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid
 … -->
 
-👋  I am a researcher and AI programmer, passionate about exploring the frontiers of NLP and leveraging technology to solve complex problems.
+👋  
+I have over 3 years of experience as a Python developer, and I am currently working as a programmer and AI researcher💪. With an academic background in Artificial Intelligence, I have a strong command of programming Machine Learning and Deep Learning algorithms. I am deeply passionate about learning, developing, and tackling challenges related to emerging concepts and cutting-edge technologies😵‍💫.
 <br>
-🔭 I’m currently actively involved in the laboratory evaluation of AI products, leveraging my expertise to trustworthiness and trancparency.
+🔭 I am currently applying cutting-edge AI algorithms to address challenges in various fields, such as improving solutions for air pollution🌱.
 <br>
-🌱 I’m currently focused on learning explainability metrics for achieving interpretability in AI systems.
+ My favorite hobbies are programming , solving math problems and reading books.
+🧩My favorite hobbies include exploring abstract concepts🎈, reading books, painting🤡, and writing🦉.
 <br>
-🧩 My favorite hobbies are programming 🤡, solving math problems and reading books.
-<br>
-🎈 Feel free to contact me! I'm always available to discuss about Tech news, programming tricks and also to help you with your projects.
+I thank God that whatever I asked of Him, I achieved with the utmost of my ambition🥰.
 <br>
 <h2>Some Tools I Have Used And Learned</h2>
 <p align="left">
