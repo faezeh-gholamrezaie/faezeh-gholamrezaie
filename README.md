@@ -16,7 +16,7 @@
 <p align="left">
     <img src="https://github.com/faezeh-gholamrezaie/faezeh-gholamrezaie/blob/main/Picture/python.svg"  width="55" height="55" alt="python-faezeh"/>
     <img src="https://github.com/faezeh-gholamrezaie/faezeh-gholamrezaie/blob/main/Picture/pytorch.svg"  width="55" height="55" alt="pytorch-faezeh"/>
-    <img src="https://github.com/faezeh-gholamrezaie/faezeh-gholamrezaie2/blob/main/Picture/tensorFlow.svg"  width="55" height="55" alt="tensorflow-faezeh"/>
+    <img src="https://github.com/faezeh-gholamrezaie/faezeh-gholamrezaie/blob/main/Picture/tensorflow.svg"  width="55" height="55" alt="tensorflow-faezeh"/>
     <img src="https://github.com/faezeh-gholamrezaie/faezeh-gholamrezaie/blob/main/Picture/pycharm.svg"  width="55" height="55" alt="pycharm-faezeh"/>
     <img src="https://github.com/faezeh-gholamrezaie/faezeh-gholamrezaie/blob/main/Picture/jupyter.svg"  width="55" height="55" alt="jupyter-faezeh"/>
     <img src="https://github.com/faezeh-gholamrezaie/faezeh-gholamrezaie/blob/main/Picture/django.svg"  width="55" height="55" alt="Django-faezeh"/>
