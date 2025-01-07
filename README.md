@@ -1,4 +1,4 @@
-![github-faezeh-gholamrezaie-readme](https://github.com/faezeh-gholamrezaie/faezeh-gholamrezaie2/blob/main/robot.png)
+![github-faezeh-gholamrezaie-readme](https://github.com/faezeh-gholamrezaie/faezeh-gholamrezaie/blob/main/Picture/robot.png)
 
 <div align="center">
 <h1 align="center"> <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"></h1>
@@ -14,15 +14,15 @@
 <br>
 <h2>Some Tools I Have Used And Learned</h2>
 <p align="left">
-    <img src="https://github.com/faezeh-gholamrezaie/faezeh-gholamrezaie2/blob/main/Python.svg"  width="55" height="55" alt="python-faezeh"/>
-    <img src="https://github.com/faezeh-gholamrezaie/faezeh-gholamrezaie2/blob/main/PyTorch.svg"  width="55" height="55" alt="pytorch-faezeh"/>
-    <img src="https://github.com/faezeh-gholamrezaie/faezeh-gholamrezaie2/blob/main/TensorFlow.svg"  width="55" height="55" alt="tensorflow-faezeh"/>
-    <img src="https://github.com/faezeh-gholamrezaie/faezeh-gholamrezaie2/blob/main/PyCharm.svg"  width="55" height="55" alt="pycharm-faezeh"/>
-    <img src="https://github.com/faezeh-gholamrezaie/faezeh-gholamrezaie2/blob/main/Jupyter.svg"  width="55" height="55" alt="jupyter-faezeh"/>
-    <img src="https://github.com/faezeh-gholamrezaie/faezeh-gholamrezaie2/blob/main/Django.svg"  width="55" height="55" alt="Django-faezeh"/>
-    <img src="https://github.com/faezeh-gholamrezaie/faezeh-gholamrezaie2/blob/main/C%2B%2B%20(CPlusPlus).svg"  width="55" height="55" alt="c++-faezeh"/>
-    <img src="https://github.com/faezeh-gholamrezaie/faezeh-gholamrezaie2/blob/main/C%23%20(CSharp).svg"  width="55" height="55" alt="c#-faezeh"/>
-   <img src="https://github.com/faezeh-gholamrezaie/faezeh-gholamrezaie2/blob/main/Anaconda.svg"  width="55" height="55" alt="Anaconda-faezeh"/>
+    <img src="https://github.com/faezeh-gholamrezaie/faezeh-gholamrezaie/blob/main/Picture/python.svg"  width="55" height="55" alt="python-faezeh"/>
+    <img src="https://github.com/faezeh-gholamrezaie/faezeh-gholamrezaie/blob/main/Picture/pyTorch.svg"  width="55" height="55" alt="pytorch-faezeh"/>
+    <img src="https://github.com/faezeh-gholamrezaie/faezeh-gholamrezaie2/blob/main/Picture/tensorFlow.svg"  width="55" height="55" alt="tensorflow-faezeh"/>
+    <img src="https://github.com/faezeh-gholamrezaie/faezeh-gholamrezaie2/blob/main/Picture/pyCharm.svg"  width="55" height="55" alt="pycharm-faezeh"/>
+    <img src="https://github.com/faezeh-gholamrezaie/faezeh-gholamrezaie2/blob/main/Picture/jupyter.svg"  width="55" height="55" alt="jupyter-faezeh"/>
+    <img src="https://github.com/faezeh-gholamrezaie/faezeh-gholamrezaie2/blob/main/Picture/django.svg"  width="55" height="55" alt="Django-faezeh"/>
+    <img src="https://github.com/faezeh-gholamrezaie/faezeh-gholamrezaie2/blob/main/Picture/CPlusPlus.svg"  width="55" height="55" alt="c++-faezeh"/>
+    <img src="https://github.com/faezeh-gholamrezaie/faezeh-gholamrezaie2/blob/main/Picture/CSharp.svg"  width="55" height="55" alt="c#-faezeh"/>
+   <img src="https://github.com/faezeh-gholamrezaie/faezeh-gholamrezaie2/blob/main/Picture/anaconda.svg"  width="55" height="55" alt="Anaconda-faezeh"/>
 </p>
 
 <h2>How To Reach Me</h2>
