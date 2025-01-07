@@ -17,12 +17,12 @@
     <img src="https://github.com/faezeh-gholamrezaie/faezeh-gholamrezaie/blob/main/Picture/python.svg"  width="55" height="55" alt="python-faezeh"/>
     <img src="https://github.com/faezeh-gholamrezaie/faezeh-gholamrezaie/blob/main/Picture/pytorch.svg"  width="55" height="55" alt="pytorch-faezeh"/>
     <img src="https://github.com/faezeh-gholamrezaie/faezeh-gholamrezaie2/blob/main/Picture/tensorFlow.svg"  width="55" height="55" alt="tensorflow-faezeh"/>
-    <img src="https://github.com/faezeh-gholamrezaie/faezeh-gholamrezaie2/blob/main/Picture/pyCharm.svg"  width="55" height="55" alt="pycharm-faezeh"/>
-    <img src="https://github.com/faezeh-gholamrezaie/faezeh-gholamrezaie2/blob/main/Picture/jupyter.svg"  width="55" height="55" alt="jupyter-faezeh"/>
-    <img src="https://github.com/faezeh-gholamrezaie/faezeh-gholamrezaie2/blob/main/Picture/django.svg"  width="55" height="55" alt="Django-faezeh"/>
-    <img src="https://github.com/faezeh-gholamrezaie/faezeh-gholamrezaie2/blob/main/Picture/CPlusPlus.svg"  width="55" height="55" alt="c++-faezeh"/>
-    <img src="https://github.com/faezeh-gholamrezaie/faezeh-gholamrezaie2/blob/main/Picture/CSharp.svg"  width="55" height="55" alt="c#-faezeh"/>
-   <img src="https://github.com/faezeh-gholamrezaie/faezeh-gholamrezaie2/blob/main/Picture/anaconda.svg"  width="55" height="55" alt="Anaconda-faezeh"/>
+    <img src="https://github.com/faezeh-gholamrezaie/faezeh-gholamrezaie/blob/main/Picture/pycharm.svg"  width="55" height="55" alt="pycharm-faezeh"/>
+    <img src="https://github.com/faezeh-gholamrezaie/faezeh-gholamrezaie/blob/main/Picture/jupyter.svg"  width="55" height="55" alt="jupyter-faezeh"/>
+    <img src="https://github.com/faezeh-gholamrezaie/faezeh-gholamrezaie/blob/main/Picture/django.svg"  width="55" height="55" alt="Django-faezeh"/>
+    <img src="https://github.com/faezeh-gholamrezaie/faezeh-gholamrezaie/blob/main/Picture/cplusplus.svg"  width="55" height="55" alt="c++-faezeh"/>
+    <img src="https://github.com/faezeh-gholamrezaie/faezeh-gholamrezaie/blob/main/Picture/csharp.svg"  width="55" height="55" alt="c#-faezeh"/>
+   <img src="https://github.com/faezeh-gholamrezaie/faezeh-gholamrezaie/blob/main/Picture/anaconda.svg"  width="55" height="55" alt="Anaconda-faezeh"/>
 </p>
 
 <h2>How To Reach Me</h2>
