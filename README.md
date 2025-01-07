@@ -4,13 +4,6 @@
 <h1 align="center"> <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"></h1>
 </div>
 
-<div align="center">
-  <a href="https://faezeh-gholamrezaie.github.io/faezeh-gholamrezaie/"></a>
-</div>
-<!-- https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid
-… -->
-
-
 <br>
 <h2>Some Tools I Have Used And Learned</h2>
 <p align="left">
